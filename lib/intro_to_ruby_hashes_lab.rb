@@ -3,7 +3,11 @@ def new_hash
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  treasures = {
+    :pearls =>2,
+    :diamonds => 3,
+    :emeralds => 8
+  }
 end
 
 def pioneer
